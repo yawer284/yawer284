@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Fahmy</h1>
 <h3 align="center">A backend developer</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Version Control**
 
 - 👨‍💻 All of my projects are available at [yawer284](yawer284)
 
