@@ -36,7 +36,7 @@
 </div>
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,ubuntu,html,css" />
 </div>
