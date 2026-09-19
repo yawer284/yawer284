@@ -52,5 +52,5 @@
 
 <h2 align="center">Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yawer284&bg_color=0d1117&color=ffffff&line=00aaff&point=ffffff&hide_border=true" />
+  <img src="https://ghchart.rshah.org/00aaff/yawer284" alt="Github Activity Graph" />
 </div>
