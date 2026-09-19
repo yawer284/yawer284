@@ -4,22 +4,21 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Abdallah Fahmy</h1>
+<h1 align="center">Hi, I'm Abdallah Fahmy</h1>
 <h3 align="center">Back-End developer</h3>
-<p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
-<p align="center"><i>Just Code.</i></p>
+<p align="center">Passionate about back-end development, core CS fundamentals, and building practical web applications.</p>
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 <table>
   <tr>
     <td width="60%">
-      Abdallah, Here — a Business Technology student focused on web development.<br><br>
-      I enjoy building scalable, production-ready applications with Python, JavaScript, and C++, continuously improving my understanding of real-world frontend and backend systems.<br><br>
-      Currently, I'm working with databases like MySQL and PostgreSQL, managing projects in Linux Ubuntu, and sharpening my problem-solving skills.<br><br>
-      My goal is simple: write clean code, build reliable software, and grow into a professional software engineer offering digital services on platforms like Khamsat and Mostaqil.
+      I'm a Business Technology student focused on back-end development<br><br>
+      I'm learning right now core back-end fundamentals like Python, Version Control, Databases, Django python web framework,       and APIs, then building projects that I need in my daily and personal use. I will not spend days building something            just to show it to people.<br><br>
+      Currently, I'm working with databases like MySQL and PostgreSQL, managing projects in Linux Ubuntu, and sharpening my         problem-solving skills.<br><br>
+      My goals are simple: just create good applications so I can prove to myself that I can build things, and use these            skills to build things in my life that will be useful for me.
     </td>
     <td width="40%" align="center">
       <!-- قم بإضافة رابط صورة البكسل آرت الجانبية هنا -->
