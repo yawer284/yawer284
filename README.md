@@ -45,7 +45,6 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yawer284&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yawer284&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
