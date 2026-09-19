@@ -1,38 +1,59 @@
+<div align="center">
+  <img src="hands.png" width="100%">
+</div>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Abdallah Fahmy</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">Back-End developer</h3>
+<p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
+<p align="center"><i>Just Code.</i></p>
 
-- 🌱 I’m currently learning **Version Control**
+<br>
 
-- 👨‍💻 All of my projects are available at [yawer284](yawer284)
+## 🚀 About Me
 
-- 💬 Ask me about **Python, Django, PostgerSQL**
+<table>
+  <tr>
+    <td width="60%">
+      Abdallah, Here — a Business Technology student focused on web development.<br><br>
+      I enjoy building scalable, production-ready applications with Python, JavaScript, and C++, continuously improving my understanding of real-world frontend and backend systems.<br><br>
+      Currently, I'm working with databases like MySQL and PostgreSQL, managing projects in Linux Ubuntu, and sharpening my problem-solving skills.<br><br>
+      My goal is simple: write clean code, build reliable software, and grow into a professional software engineer offering digital services on platforms like Khamsat and Mostaqil.
+    </td>
+    <td width="40%" align="center">
+      <!-- قم بإضافة رابط صورة البكسل آرت الجانبية هنا -->
+      <img src="https://via.placeholder.com/250x250/161b22/ffffff?text=Pixel+Art" width="100%">
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **abdallahalyawar2004@gmail.com**
+<br>
 
-- ⚡ Fun fact **I’m a Business Technology student who somehow became obsessed with understanding what happens behind the screen.**
+<h2 align="center">🤝 Connect</h2>
+<div align="center">
+  <a href="https://github.com/اسم_حسابك"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/اسم_حسابك"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdallah-m-fawzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdallah-m-fawzy" height="30" width="40" /></a>
-<a href="https://discord.gg/abdallah_yawer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdallah_yawer" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">💻 Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,mysql,postgres,ubuntu,vscode,linux" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yawer284&show_icons=true&locale=en&layout=compact" alt="yawer284" /></p>
+<br>
 
-<!--
-**yawer284/yawer284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=اسم_حسابك&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=اسم_حسابك&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">📈 Activity Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=اسم_حسابك&bg_color=0d1117&color=ffffff&line=00aaff&point=ffffff&theme=react-dark&hide_border=true" />
+</div>
