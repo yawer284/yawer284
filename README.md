@@ -50,7 +50,7 @@
 
 <br>
 
-<h2 align="center">Activity Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 <div align="center">
-  <img src="https://ghchart.rshah.org/00aaff/yawer284" alt="Github Activity Graph" />
+  <img src="https://raw.githubusercontent.com/yawer284/yawer284/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
