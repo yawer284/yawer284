@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hands.png" width="100%">
+  <img src="media/hands.png" width="100%">
 </div>
 
 <br>
@@ -21,7 +21,7 @@
       My goals are simple: just create good applications so I can prove to myself that I can build things, and use these            skills to build things in my life that will be useful for me.
     </td>
     <td width="40%" align="center">
-      <img src="guy.png" width="100%">
+      <img src="media/guy.png" width="100%">
     </td>
   </tr>
 </table>
